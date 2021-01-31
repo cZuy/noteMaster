@@ -1,5 +1,5 @@
 # NoteMaster
-# Propmts the user to create a journal entry overy 10-15 minutes - to track ideas and for later reference
+# Prompts the user to create a journal entry - to track ideas and for later reference
 
 import datetime as dt
 from difflib import SequenceMatcher
